@@ -36,6 +36,12 @@ export default function App() {
         width={500}
         height={500}
       />
+        <Avatar
+        profileText="Profile bakın"
+        name="John Cook"
+        width={500}
+        height={500}
+      />
     </>
   );
 }
